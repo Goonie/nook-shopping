@@ -1,0 +1,27 @@
+{
+	"extends": [
+		"react-app",
+		"react-app/jest"
+	],
+	"rules": {
+		"indent": [ "error", "tab" ],
+		"eol-last": "error",
+		"semi": "error",
+		"semi-spacing": "error",
+		"semi-style": "error",
+		"space-infix-ops": "error",
+		"space-unary-ops": "error",
+		"space-in-parens": "error",
+		"space-before-function-paren": "error",
+		"space-before-blocks": "error",
+		"arrow-spacing": "error",
+		"keyword-spacing": "error",
+		"brace-style": "error",
+		"array-bracket-spacing": [ "error", "always" ],
+		"object-curly-spacing": [ "error", "always" ],
+		"quote-props": [ "error", "as-needed" ],
+		"quotes": [ "error", "single" ],
+		"comma-spacing": "error",
+		"comma-dangle": [ "error", "only-multiline" ]
+	}
+}
