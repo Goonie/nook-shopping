@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Seurat';
+	src:
+		url('../assets/WIX-SeuratProN-DB.woff2') format('woff2'),
+		url('../assets/WIX-SeuratProN-DB.woff') format('woff');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 18px;
+}
+
+@import 'elements/h1';
